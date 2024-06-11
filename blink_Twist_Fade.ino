@@ -1,8 +1,8 @@
-/*สำหรับ ch32v003J4M6 */
+/* for ch32v003J4M6 */
 /*
  * 
- *  โค๊ดนี้สำหรับ ทำ LED ติด/ดับสลับกัน 2 ดวง
- *  ด้วยขา PC2 และ PC4
+ *  Blynk up and down 2 LEDs 
+ *  using Pin PC2 และ PC4
  *  
  */
 
